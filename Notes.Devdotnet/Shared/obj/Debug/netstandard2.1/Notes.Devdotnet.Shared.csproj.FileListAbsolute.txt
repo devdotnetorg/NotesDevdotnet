@@ -1,0 +1,9 @@
+D:\Anton\Projects\Notes.Devdotnet\Notes.Devdotnet\Shared\bin\Debug\netstandard2.1\Notes.Devdotnet.Shared.deps.json
+D:\Anton\Projects\Notes.Devdotnet\Notes.Devdotnet\Shared\bin\Debug\netstandard2.1\Notes.Devdotnet.Shared.dll
+D:\Anton\Projects\Notes.Devdotnet\Notes.Devdotnet\Shared\bin\Debug\netstandard2.1\Notes.Devdotnet.Shared.pdb
+D:\Anton\Projects\Notes.Devdotnet\Notes.Devdotnet\Shared\obj\Debug\netstandard2.1\Notes.Devdotnet.Shared.csprojAssemblyReference.cache
+D:\Anton\Projects\Notes.Devdotnet\Notes.Devdotnet\Shared\obj\Debug\netstandard2.1\Notes.Devdotnet.Shared.AssemblyInfoInputs.cache
+D:\Anton\Projects\Notes.Devdotnet\Notes.Devdotnet\Shared\obj\Debug\netstandard2.1\Notes.Devdotnet.Shared.AssemblyInfo.cs
+D:\Anton\Projects\Notes.Devdotnet\Notes.Devdotnet\Shared\obj\Debug\netstandard2.1\Notes.Devdotnet.Shared.csproj.CoreCompileInputs.cache
+D:\Anton\Projects\Notes.Devdotnet\Notes.Devdotnet\Shared\obj\Debug\netstandard2.1\Notes.Devdotnet.Shared.dll
+D:\Anton\Projects\Notes.Devdotnet\Notes.Devdotnet\Shared\obj\Debug\netstandard2.1\Notes.Devdotnet.Shared.pdb
